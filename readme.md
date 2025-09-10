@@ -2,7 +2,7 @@
 
 A complete data pipeline solution featuring data ingestion, storage, transformation, analytics, and machine learning capabilities.
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 ```
 Data Source → MinIO (Raw Storage) → Airflow (Orchestration) → PostgreSQL (Processed Data) → Metabase (Analytics)
@@ -21,8 +21,8 @@ Data Source → MinIO (Raw Storage) → Airflow (Orchestration) → PostgreSQL (
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd modern-data-architecture
+git clone https://github.com/bhismaroi/modern-data-arch-pacmann
+cd modern-data-arch-pacmann
 ```
 
 2. **Set up environment variables**
@@ -217,23 +217,3 @@ For production:
 - [MinIO Documentation](https://docs.min.io/)
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 - [Metabase Documentation](https://www.metabase.com/docs/)
-
-## 📄 License
-
-MIT License - For educational purposes
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch
-3. Commit changes
-4. Push to branch
-5. Create Pull Request
-
-## 👥 Support
-
-For issues or questions, please create an issue in the GitHub repository.
-
----
-
-**Built with ❤️ for Modern Data Architecture Learning**
