@@ -1,0 +1,101 @@
+transaction_id,transaction_date,product_id,product_name,category,subcategory,quantity,unit_price,discount_percentage,total_amount,customer_id,customer_name,customer_segment,region,city,payment_method,profit_margin
+TXN-20250810-00051,2025-08-10 01:21:31,PRD-ELE-8811,Lenovo Tab,Electronics,Tablet,4,1184.23,5,4500.07,CUST-01494,Customer 1494,Corporate,Central,St. Louis,PayPal,28.89
+TXN-20250810-00091,2025-08-10 03:57:31,PRD-CLO-3921,Belt,Clothing,Accessories,1,280.38,5,266.36,CUST-00162,Customer 0162,Budget,South,Miami,PayPal,28.68
+TXN-20250810-00073,2025-08-10 11:25:31,PRD-SPO-2028,Camping Stove,Sports & Outdoors,Outdoor,2,782.46,0,1564.92,CUST-01614,Customer 1614,Wholesale,South,Atlanta,Credit Card,33.07
+TXN-20250810-00003,2025-08-10 15:17:31,PRD-CLO-7337,Sneakers,Clothing,Shoes,1,197.61,10,177.85,CUST-00180,Customer 0180,Corporate,South,Houston,Credit Card,20.19
+TXN-20250810-00044,2025-08-10 15:51:31,PRD-CLO-9484,Watch,Clothing,Accessories,3,321.68,10,868.54,CUST-00006,Customer 0006,Budget,East,Philadelphia,Debit Card,24.06
+TXN-20250810-00086,2025-08-10 20:07:31,PRD-SPO-2769,Backpack,Sports & Outdoors,Outdoor,1,839.29,10,755.36,CUST-01722,Customer 1722,Standard,North,New York,Bank Transfer,27.09
+TXN-20250811-00057,2025-08-11 03:40:31,PRD-BOO-1683,Travel,Books,Non-Fiction,2,77.21,10,138.98,CUST-00314,Customer 0314,Corporate,East,Washington,Bank Transfer,22.39
+TXN-20250811-00093,2025-08-11 05:02:31,PRD-CLO-8700,Formal Trousers,Clothing,Pants,4,343.16,5,1304.01,CUST-01519,Customer 1519,Budget,East,Baltimore,Credit Card,13.24
+TXN-20250812-00012,2025-08-12 18:17:31,PRD-SPO-3634,Bicycle,Sports & Outdoors,Equipment,2,780.75,0,1561.5,CUST-00805,Customer 0805,Wholesale,Central,Kansas City,Credit Card,23.21
+TXN-20250813-00060,2025-08-13 01:04:31,PRD-HOM-4372,Bookshelf,Home & Garden,Furniture,1,603.12,15,512.65,CUST-00400,Customer 0400,Corporate,South,Miami,Bank Transfer,30.39
+TXN-20250813-00045,2025-08-13 07:18:31,PRD-BOO-8383,Young Adult,Books,Children,2,136.51,15,232.07,CUST-00438,Customer 0438,Corporate,West,Seattle,Credit Card,30.86
+TXN-20250813-00035,2025-08-13 08:21:31,PRD-CLO-8306,Watch,Clothing,Accessories,3,171.67,10,463.51,CUST-00815,Customer 0815,Standard,East,Richmond,Credit Card,33.92
+TXN-20250813-00054,2025-08-13 15:08:31,PRD-SPO-6586,Dumbbells,Sports & Outdoors,Equipment,1,291.53,10,262.38,CUST-00728,Customer 0728,Standard,West,Portland,Debit Card,21.96
+TXN-20250814-00095,2025-08-14 05:30:31,PRD-CLO-8700,Sneakers,Clothing,Shoes,2,88.0,20,140.8,CUST-01332,Customer 1332,Premium,East,Philadelphia,Google Pay,24.14
+TXN-20250814-00061,2025-08-14 06:25:31,PRD-BOO-8622,Biography,Books,Non-Fiction,2,135.1,0,270.2,CUST-01973,Customer 1973,Standard,East,Baltimore,Credit Card,17.14
+TXN-20250814-00089,2025-08-14 09:08:31,PRD-BOO-4663,Encyclopedia,Books,Educational,2,26.73,5,50.79,CUST-00061,Customer 0061,Corporate,North,New York,Credit Card,15.49
+TXN-20250814-00088,2025-08-14 12:31:31,PRD-BOO-4531,Encyclopedia,Books,Educational,4,89.37,25,268.11,CUST-01783,Customer 1783,Standard,South,Dallas,Debit Card,22.74
+TXN-20250815-00048,2025-08-15 06:31:31,PRD-CLO-7488,Loafers,Clothing,Shoes,1,397.39,10,357.65,CUST-01384,Customer 1384,Wholesale,North,Chicago,PayPal,30.57
+TXN-20250815-00082,2025-08-15 07:51:31,PRD-CLO-9837,Formal Trousers,Clothing,Pants,4,209.47,0,837.88,CUST-00392,Customer 0392,Wholesale,East,Pittsburgh,Cash,23.54
+TXN-20250815-00092,2025-08-15 14:30:31,PRD-HOM-4655,Outdoor Furniture,Home & Garden,Garden,3,434.54,5,1238.44,CUST-01910,Customer 1910,Premium,West,Seattle,PayPal,26.45
+TXN-20250815-00072,2025-08-15 18:23:31,PRD-BOO-4676,Workbook,Books,Educational,2,89.2,15,151.64,CUST-01362,Customer 1362,Premium,North,Detroit,Apple Pay,21.23
+TXN-20250815-00020,2025-08-15 22:01:31,PRD-HOM-2913,Vase,Home & Garden,Decor,2,751.96,10,1353.53,CUST-01924,Customer 1924,Standard,South,Houston,PayPal,25.96
+TXN-20250816-00052,2025-08-16 19:33:31,PRD-ELE-4198,Beats Studio,Electronics,Headphones,1,1875.66,20,1500.53,CUST-01302,Customer 1302,Corporate,East,Richmond,PayPal,17.69
+TXN-20250816-00005,2025-08-16 19:55:31,PRD-BOO-4404,Picture Book,Books,Children,1,110.99,5,105.44,CUST-00580,Customer 0580,Budget,South,New Orleans,Credit Card,23.81
+TXN-20250817-00027,2025-08-17 04:50:31,PRD-CLO-9767,Boots,Clothing,Shoes,1,290.83,0,290.83,CUST-01100,Customer 1100,Wholesale,West,Seattle,PayPal,29.16
+TXN-20250817-00068,2025-08-17 10:03:31,PRD-SPO-4019,Track Jacket,Sports & Outdoors,Apparel,1,23.78,0,23.78,CUST-00015,Customer 0015,Premium,West,Seattle,Credit Card,22.14
+TXN-20250817-00037,2025-08-17 10:43:31,PRD-SPO-6712,Tent,Sports & Outdoors,Outdoor,5,495.89,0,2479.45,CUST-01550,Customer 1550,Premium,Central,Columbus,Debit Card,22.94
+TXN-20250818-00019,2025-08-18 09:58:31,PRD-CLO-9996,Formal Shoes,Clothing,Shoes,2,248.62,25,372.93,CUST-01727,Customer 1727,Budget,East,Pittsburgh,Credit Card,22.28
+TXN-20250818-00049,2025-08-18 12:00:31,PRD-HOM-9344,Garden Tools,Home & Garden,Garden,1,324.85,15,276.12,CUST-01057,Customer 1057,Standard,North,Detroit,Bank Transfer,28.22
+TXN-20250818-00063,2025-08-18 14:39:31,PRD-BOO-4274,Encyclopedia,Books,Educational,2,136.87,10,246.37,CUST-00274,Customer 0274,Premium,Central,Indianapolis,Debit Card,36.88
+TXN-20250819-00031,2025-08-19 06:09:31,PRD-BOO-3110,Historical Fiction,Books,Fiction,10,126.96,0,1269.6,CUST-00199,Customer 0199,Standard,West,Los Angeles,Credit Card,23.56
+TXN-20250819-00097,2025-08-19 06:41:31,PRD-CLO-5262,Formal Trousers,Clothing,Pants,1,321.1,10,288.99,CUST-01182,Customer 1182,Corporate,East,Washington,Debit Card,18.64
+TXN-20250820-00056,2025-08-20 03:55:31,PRD-HOM-7536,Bed Frame,Home & Garden,Furniture,1,1189.78,0,1189.78,CUST-00893,Customer 0893,Premium,South,Miami,Credit Card,30.51
+TXN-20250820-00041,2025-08-20 06:58:31,PRD-HOM-4653,Bed Frame,Home & Garden,Furniture,1,1240.14,20,992.11,CUST-01041,Customer 1041,Corporate,Central,Kansas City,Debit Card,32.21
+TXN-20250820-00028,2025-08-20 07:04:31,PRD-BOO-3634,Textbook,Books,Educational,1,30.64,10,27.58,CUST-01810,Customer 1810,Budget,North,New York,Credit Card,24.2
+TXN-20250820-00009,2025-08-20 16:35:31,PRD-BOO-6776,Reference Guide,Books,Educational,1,19.06,5,18.11,CUST-00681,Customer 0681,Premium,East,Richmond,Cash,34.55
+TXN-20250820-00025,2025-08-20 21:27:31,PRD-HOM-9873,Mirror,Home & Garden,Decor,3,900.24,20,2160.58,CUST-00608,Customer 0608,Budget,Central,Indianapolis,Credit Card,11.98
+TXN-20250821-00043,2025-08-21 03:05:31,PRD-HOM-9325,Dining Table,Home & Garden,Furniture,3,1916.99,25,4313.23,CUST-01134,Customer 1134,Premium,Central,Indianapolis,Credit Card,36.3
+TXN-20250821-00069,2025-08-21 04:58:31,PRD-ELE-3947,MacBook Pro,Electronics,Laptop,2,1071.66,25,1607.49,CUST-01539,Customer 1539,Corporate,West,Seattle,Google Pay,23.57
+TXN-20250821-00018,2025-08-21 05:47:31,PRD-HOM-8158,Blender,Home & Garden,Kitchen,1,1384.8,0,1384.8,CUST-00691,Customer 0691,Standard,West,San Francisco,Apple Pay,15.29
+TXN-20250821-00079,2025-08-21 09:35:31,PRD-CLO-2240,Sweatpants,Clothing,Pants,2,401.23,5,762.34,CUST-01737,Customer 1737,Standard,South,Atlanta,Credit Card,31.74
+TXN-20250821-00099,2025-08-21 14:33:31,PRD-ELE-2674,JBL Tune,Electronics,Headphones,2,1849.67,10,3329.41,CUST-01223,Customer 1223,Wholesale,North,New York,Credit Card,29.61
+TXN-20250821-00083,2025-08-21 19:03:31,PRD-HOM-2631,Bookshelf,Home & Garden,Furniture,2,1978.86,10,3561.95,CUST-00020,Customer 0020,Corporate,West,Portland,Debit Card,33.57
+TXN-20250822-00034,2025-08-22 03:06:31,PRD-BOO-4927,Romance Novel,Books,Fiction,3,88.21,10,238.17,CUST-01211,Customer 1211,Premium,East,Washington,Cash,38.73
+TXN-20250822-00096,2025-08-22 10:52:31,PRD-SPO-8760,Backpack,Sports & Outdoors,Outdoor,3,1242.82,0,3728.46,CUST-00540,Customer 0540,Premium,South,Houston,Credit Card,25.99
+TXN-20250823-00085,2025-08-23 05:21:31,PRD-ELE-5000,HP Spectre,Electronics,Laptop,1,2864.2,15,2434.57,CUST-01881,Customer 1881,Standard,Central,Milwaukee,Debit Card,32.12
+TXN-20250823-00024,2025-08-23 07:48:31,PRD-ELE-6138,OnePlus 11,Electronics,Smartphone,1,2323.16,20,1858.53,CUST-01130,Customer 1130,Corporate,South,Houston,PayPal,17.78
+TXN-20250823-00070,2025-08-23 09:22:31,PRD-CLO-7184,Belt,Clothing,Accessories,2,330.43,10,594.77,CUST-00986,Customer 0986,Corporate,North,Minneapolis,Credit Card,30.98
+TXN-20250823-00046,2025-08-23 18:09:31,PRD-ELE-5005,Amazon Fire HD,Electronics,Tablet,4,219.99,0,879.96,CUST-01112,Customer 1112,Corporate,North,Chicago,PayPal,18.96
+TXN-20250823-00038,2025-08-23 23:42:31,PRD-CLO-3745,Formal Trousers,Clothing,Pants,2,89.32,5,169.71,CUST-00326,Customer 0326,Corporate,West,Denver,Credit Card,30.58
+TXN-20250825-00087,2025-08-25 08:49:31,PRD-ELE-2931,Samsung Tab S8,Electronics,Tablet,4,845.52,15,2874.77,CUST-00487,Customer 0487,Budget,West,Los Angeles,Debit Card,18.42
+TXN-20250825-00021,2025-08-25 19:28:31,PRD-HOM-4862,Bookshelf,Home & Garden,Furniture,3,820.53,10,2215.43,CUST-01764,Customer 1764,Corporate,East,Baltimore,PayPal,19.09
+TXN-20250826-00090,2025-08-26 17:31:31,PRD-ELE-5828,Motorola Edge,Electronics,Smartphone,5,694.58,0,3472.9,CUST-01416,Customer 1416,Budget,South,Atlanta,Credit Card,11.04
+TXN-20250826-00066,2025-08-26 20:58:31,PRD-HOM-5757,Bed Frame,Home & Garden,Furniture,1,1720.0,20,1376.0,CUST-01708,Customer 1708,Premium,Central,St. Louis,Credit Card,27.1
+TXN-20250827-00029,2025-08-27 23:18:31,PRD-CLO-9772,Formal Trousers,Clothing,Pants,2,65.39,0,130.78,CUST-01940,Customer 1940,Premium,East,Philadelphia,Debit Card,39.28
+TXN-20250828-00047,2025-08-28 00:23:31,PRD-CLO-9070,Loafers,Clothing,Shoes,3,251.09,0,753.27,CUST-00560,Customer 0560,Standard,North,Boston,Cash,21.66
+TXN-20250828-00100,2025-08-28 09:11:31,PRD-ELE-3872,iPad Pro,Electronics,Tablet,4,96.95,0,387.8,CUST-00300,Customer 0300,Budget,North,Minneapolis,Debit Card,14.47
+TXN-20250828-00064,2025-08-28 20:40:31,PRD-ELE-7435,Amazon Fire HD,Electronics,Tablet,1,1182.28,0,1182.28,CUST-00001,Customer 0001,Premium,Central,Milwaukee,Credit Card,33.52
+TXN-20250829-00065,2025-08-29 00:16:31,PRD-CLO-3270,Jeans,Clothing,Pants,2,56.26,15,95.64,CUST-01201,Customer 1201,Premium,East,Richmond,PayPal,20.42
+TXN-20250829-00032,2025-08-29 00:23:31,PRD-ELE-7366,AirPods Pro,Electronics,Headphones,1,834.6,0,834.6,CUST-00399,Customer 0399,Wholesale,East,Baltimore,Cash,20.93
+TXN-20250829-00055,2025-08-29 01:06:31,PRD-HOM-2396,Blender,Home & Garden,Kitchen,2,1524.59,0,3049.18,CUST-01248,Customer 1248,Corporate,South,Dallas,Cash,22.99
+TXN-20250829-00039,2025-08-29 14:48:31,PRD-HOM-6933,Bookshelf,Home & Garden,Furniture,3,212.75,5,606.34,CUST-01374,Customer 1374,Premium,South,Miami,Credit Card,34.53
+TXN-20250829-00011,2025-08-29 16:21:31,PRD-BOO-9654,Cookbook,Books,Non-Fiction,2,78.9,0,157.8,CUST-01531,Customer 1531,Premium,East,Baltimore,PayPal,31.57
+TXN-20250830-00036,2025-08-30 01:31:31,PRD-SPO-7636,Hiking Boots,Sports & Outdoors,Outdoor,3,725.13,15,1849.08,CUST-00964,Customer 0964,Wholesale,East,Philadelphia,PayPal,28.55
+TXN-20250830-00058,2025-08-30 17:10:31,PRD-SPO-7402,Flashlight,Sports & Outdoors,Outdoor,4,1296.58,10,4667.69,CUST-01670,Customer 1670,Wholesale,North,Boston,Credit Card,34.91
+TXN-20250831-00074,2025-08-31 00:04:31,PRD-CLO-1744,Cargo Pants,Clothing,Pants,1,171.67,5,163.09,CUST-00196,Customer 0196,Wholesale,South,Houston,Credit Card,34.77
+TXN-20250831-00059,2025-08-31 21:14:31,PRD-BOO-4260,Self-Help,Books,Non-Fiction,2,6.72,0,13.44,CUST-01779,Customer 1779,Budget,West,Seattle,Credit Card,21.35
+TXN-20250901-00094,2025-09-01 01:39:31,PRD-BOO-4287,Fairy Tales,Books,Children,1,110.95,25,83.21,CUST-00378,Customer 0378,Corporate,Central,Columbus,Google Pay,22.41
+TXN-20250901-00084,2025-09-01 04:04:31,PRD-SPO-8513,Basketball,Sports & Outdoors,Equipment,5,791.62,20,3166.48,CUST-00153,Customer 0153,Budget,Central,Kansas City,Debit Card,20.98
+TXN-20250901-00010,2025-09-01 11:31:31,PRD-CLO-9567,Loafers,Clothing,Shoes,5,120.74,5,573.52,CUST-00726,Customer 0726,Standard,South,Atlanta,PayPal,20.51
+TXN-20250901-00014,2025-09-01 12:00:31,PRD-ELE-7568,Bose QC45,Electronics,Headphones,1,97.22,10,87.5,CUST-00164,Customer 0164,Corporate,North,Boston,Apple Pay,15.42
+TXN-20250901-00075,2025-09-01 13:32:31,PRD-HOM-1461,Garden Tools,Home & Garden,Garden,1,800.98,15,680.83,CUST-00792,Customer 0792,Premium,South,Miami,PayPal,23.68
+TXN-20250901-00033,2025-09-01 14:46:31,PRD-BOO-1914,Thriller,Books,Fiction,2,28.17,15,47.89,CUST-00985,Customer 0985,Wholesale,East,Washington,Cash,19.0
+TXN-20250902-00077,2025-09-02 05:13:31,PRD-SPO-4462,Dumbbells,Sports & Outdoors,Equipment,1,955.59,20,764.47,CUST-00080,Customer 0080,Wholesale,West,Denver,Credit Card,17.11
+TXN-20250902-00006,2025-09-02 05:28:31,PRD-SPO-9821,Dumbbells,Sports & Outdoors,Equipment,3,1292.81,10,3490.59,CUST-00079,Customer 0079,Corporate,North,Chicago,Cash,18.58
+TXN-20250902-00081,2025-09-02 09:50:31,PRD-HOM-1259,Outdoor Furniture,Home & Garden,Garden,2,1785.32,15,3035.04,CUST-00314,Customer 0314,Premium,West,Denver,Bank Transfer,34.27
+TXN-20250902-00053,2025-09-02 16:07:31,PRD-ELE-2212,Samsung Galaxy S23,Electronics,Smartphone,2,1936.72,0,3873.44,CUST-00839,Customer 0839,Standard,West,Los Angeles,Credit Card,29.76
+TXN-20250903-00007,2025-09-03 00:27:31,PRD-BOO-6451,Dictionary,Books,Educational,4,34.38,0,137.52,CUST-01068,Customer 1068,Premium,South,Houston,Credit Card,26.25
+TXN-20250903-00008,2025-09-03 06:03:31,PRD-HOM-6294,Garden Tools,Home & Garden,Garden,1,997.78,0,997.78,CUST-00776,Customer 0776,Premium,West,Los Angeles,Debit Card,24.9
+TXN-20250903-00071,2025-09-03 09:21:31,PRD-BOO-4844,Activity Book,Books,Children,2,14.86,15,25.26,CUST-00802,Customer 0802,Budget,Central,St. Louis,Debit Card,12.18
+TXN-20250903-00078,2025-09-03 09:23:31,PRD-SPO-2942,Jump Rope,Sports & Outdoors,Fitness,5,1000.75,10,4503.38,CUST-01469,Customer 1469,Standard,East,Philadelphia,Cash,32.48
+TXN-20250903-00098,2025-09-03 17:53:31,PRD-CLO-4820,Cargo Pants,Clothing,Pants,2,265.31,5,504.09,CUST-01790,Customer 1790,Budget,Central,Milwaukee,Debit Card,20.1
+TXN-20250903-00013,2025-09-03 19:31:31,PRD-ELE-8174,Dell XPS 13,Electronics,Laptop,3,149.78,5,426.87,CUST-01464,Customer 1464,Corporate,East,Pittsburgh,Cash,34.84
+TXN-20250904-00042,2025-09-04 12:49:31,PRD-BOO-1361,Young Adult,Books,Children,1,8.15,5,7.74,CUST-00645,Customer 0645,Standard,East,Philadelphia,Credit Card,18.34
+TXN-20250904-00015,2025-09-04 16:20:31,PRD-SPO-4466,Tent,Sports & Outdoors,Outdoor,2,743.99,5,1413.58,CUST-00319,Customer 0319,Budget,North,Boston,Credit Card,23.61
+TXN-20250904-00026,2025-09-04 18:17:31,PRD-ELE-8142,Google Pixel 7,Electronics,Smartphone,4,146.82,0,587.28,CUST-00156,Customer 0156,Premium,South,Houston,Credit Card,34.09
+TXN-20250904-00062,2025-09-04 20:33:31,PRD-ELE-9534,HP Spectre,Electronics,Laptop,2,2934.99,5,5576.48,CUST-01051,Customer 1051,Corporate,Central,Columbus,Bank Transfer,18.5
+TXN-20250905-00050,2025-09-05 09:14:31,PRD-HOM-4578,Wall Art,Home & Garden,Decor,3,1603.6,5,4570.26,CUST-01900,Customer 1900,Premium,West,Los Angeles,PayPal,31.52
+TXN-20250905-00076,2025-09-05 09:44:31,PRD-CLO-9624,Sneakers,Clothing,Shoes,2,453.06,15,770.2,CUST-01179,Customer 1179,Standard,South,New Orleans,Credit Card,30.46
+TXN-20250905-00030,2025-09-05 15:13:31,PRD-CLO-8804,Sandals,Clothing,Shoes,20,283.22,5,5381.18,CUST-01544,Customer 1544,Corporate,West,Portland,Apple Pay,33.43
+TXN-20250905-00001,2025-09-05 17:22:31,PRD-CLO-6721,Denim Shirt,Clothing,Shirts,4,227.8,20,728.96,CUST-00139,Customer 0139,Budget,Central,Milwaukee,Debit Card,24.87
+TXN-20250906-00040,2025-09-06 04:48:31,PRD-ELE-9535,Sony WH-1000XM5,Electronics,Headphones,1,210.53,5,200.0,CUST-00508,Customer 0508,Standard,Central,Milwaukee,Debit Card,24.83
+TXN-20250906-00067,2025-09-06 09:11:31,PRD-HOM-2414,Curtains,Home & Garden,Decor,1,888.19,25,666.14,CUST-00611,Customer 0611,Standard,East,Philadelphia,Debit Card,26.97
+TXN-20250906-00022,2025-09-06 12:31:31,PRD-HOM-4865,Office Chair,Home & Garden,Furniture,1,641.37,15,545.16,CUST-00010,Customer 0010,Standard,West,Seattle,PayPal,21.37
+TXN-20250907-00016,2025-09-07 16:37:31,PRD-ELE-1790,Samsung Galaxy S23,Electronics,Smartphone,4,1549.18,25,4647.54,CUST-01727,Customer 1727,Corporate,North,Boston,Debit Card,16.79
+TXN-20250908-00023,2025-09-08 03:18:31,PRD-BOO-3410,Thriller,Books,Fiction,2,16.22,20,25.95,CUST-01080,Customer 1080,Premium,North,Detroit,Cash,32.52
+TXN-20250908-00017,2025-09-08 04:14:31,PRD-HOM-3921,Air Fryer,Home & Garden,Kitchen,1,606.84,15,515.81,CUST-00580,Customer 0580,Budget,South,Miami,Credit Card,22.27
+TXN-20250908-00080,2025-09-08 07:29:31,PRD-HOM-8416,Lamp,Home & Garden,Decor,1,1107.95,5,1052.55,CUST-01703,Customer 1703,Standard,West,Seattle,Credit Card,28.11
+TXN-20250908-00002,2025-09-08 22:19:31,PRD-HOM-9328,Vase,Home & Garden,Decor,5,200.73,5,953.47,CUST-00604,Customer 0604,Wholesale,Central,Milwaukee,Debit Card,21.46
+TXN-20250908-00004,2025-09-08 22:38:31,PRD-BOO-3123,Workbook,Books,Educational,1,42.16,10,37.94,CUST-00744,Customer 0744,Wholesale,South,Houston,Credit Card,29.05

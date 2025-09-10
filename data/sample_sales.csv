@@ -1,0 +1,11 @@
+transaction_id,transaction_date,product_id,product_name,category,subcategory,quantity,unit_price,discount_percentage,customer_id,region,payment_method,total_amount
+TXN-20240101-00001,2024-01-01,PRD-ELE-1234,Laptop 456,Electronics,Laptop,2,1299.99,10,CUST-00123,North,Credit Card,2339.98
+TXN-20240101-00002,2024-01-01,PRD-CLO-5678,Cotton T-Shirt 789,Clothing,Shirts,5,29.99,15,CUST-00456,South,PayPal,127.46
+TXN-20240101-00003,2024-01-01,PRD-HOM-9012,Office Chair 234,Home & Garden,Furniture,1,399.99,20,CUST-00789,East,Debit Card,319.99
+TXN-20240101-00004,2024-01-01,PRD-BOO-3456,Mystery Novel 567,Books,Fiction,3,19.99,5,CUST-00234,West,Cash,56.97
+TXN-20240101-00005,2024-01-01,PRD-ELE-7890,iPhone 14,Electronics,Smartphone,1,999.99,0,CUST-00567,Central,Credit Card,999.99
+TXN-20240101-00006,2024-01-01,PRD-CLO-2345,Jeans 890,Clothing,Pants,2,79.99,25,CUST-00890,North,Bank Transfer,119.99
+TXN-20240101-00007,2024-01-01,PRD-HOM-6789,Coffee Maker 123,Home & Garden,Kitchen,1,149.99,10,CUST-00345,South,PayPal,134.99
+TXN-20240101-00008,2024-01-01,PRD-BOO-0123,Textbook 456,Books,Educational,1,89.99,0,CUST-00678,East,Credit Card,89.99
+TXN-20240101-00009,2024-01-01,PRD-ELE-4567,AirPods Pro,Electronics,Headphones,2,249.99,15,CUST-00901,West,Debit Card,424.98
+TXN-20240101-00010,2024-01-01,PRD-CLO-8901,Running Shoes 234,Clothing,Shoes,1,129.99,20,CUST-00456,Central,Cash,103.99
